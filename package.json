@@ -1,0 +1,12 @@
+{
+  "name": "typescript-fun",
+  "version": "1.0.0",
+  "description": "Practicing TypeScript",
+  "type": "module",
+  "scripts": {},
+  "author": "YawKar",
+  "license": "WTFPL",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
