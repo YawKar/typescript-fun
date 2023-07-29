@@ -10,7 +10,6 @@
     "noImplicitAny": true,
     "noImplicitOverride": true,
     "noImplicitThis": true,
-    "noImplicitReturns": true,
     "noUncheckedIndexedAccess": true,
     "rootDir": "./src",
     "outDir": "./dist"
